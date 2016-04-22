@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;statistical&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../wukong-weibo.go" />
+      <root url="file://D:/D-go/src/RF_Tmc" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../wukong" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../go-spider-utf8.go" />
+      <root url="file://$PROJECT_DIR$/../slice-func-lab" />
+      <root url="file://D:/D-go/src/Lab_Tm" />
+      <root url="file://D:/D-go/src/Lab_Tm_web" />
+      <root url="file://$PROJECT_DIR$/../collage-spider.go" />
+      <root url="file://$PROJECT_DIR$/../wukong-weibo.go.bak" />
+      <root url="file://$USER_HOME$/go-work/src/hello.go" />
+      <root url="file://D:/D-go/src/.idea" />
+      <root url="file://$USER_HOME$/IdeaProjects/src/Lab" />
+      <root url="file://D:/D-go/src/DMforTmC-0" />
+      <root url="file://$USER_HOME$/IdeaProjects/src/DMforTmC" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/kv/_testdata" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/bufs/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/fileutil/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/D-go/src/DMforTmC-0/.idea" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/kv/.git" />
+      <root url="file://D:/D-go/src/Lab_Tm_web/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/sortutil/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/kv/kvaudit/_testdata" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/zappy/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/exp/.git" />
+      <root url="file://D:/D-go/src/RF_Tmc/.idea" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/mathutil/.git" />
+      <root url="file://D:/D-go/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/kv/_testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/bufs/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/sego/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/kv/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/fileutil/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/sego/testdata" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/text/encoding/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/kv/kvaudit/_testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/zappy/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/exp/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/cznic/sortutil/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/cznic/mathutil/.git" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-1.1/.idea" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-1.1/testdata" />
+      <root url="file://$USER_HOME$/IdeaProjects/src/Lab/.idea" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/testdata" />
+      <root url="file://$USER_HOME$/IdeaProjects/src/DMforTmC/.idea" />
+      <root url="file://D:/D-go/src/Lab_Tm/.idea" />
+      <root url="file://$PROJECT_DIR$/../wukong/wukong-master-iron/.idea" />
+    </excluded>
+  </library>
+</component>
